@@ -1,0 +1,71 @@
+---
+title: "Birds of a Feather"
+author: "Amelia McNamara"
+date: "6/1/2019"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Monday, Jul 29, 2019 
+
+## 12:30 PM  **Visualizing Visualization Education** 
+Jo Hardin (Pomona College) 
+
+As statistics educators, it is often easier to focus our teaching on methods instead of communication.  And while many of us understand the value of good communication, actually *teaching* it is difficult and outside of our comfort zone.  There is excellent work done on the science of visualization / visualization education (e.g., the grammar of graphics), but the work has not yet been fully infused into the statistics curriculum.  
+
+The BoF session will focus on ideas for teaching visualization at all levels of statistics.  We will share resources, activities, and lessons learned.   Questions might include "What does data visualization in a statistics class mean to you?" "Have you ever taught data visualization?" "What was successful and what was not successful?"  "How can visualization assignments be assessed effectively?"
+
+## 12:30 PM **Preparing Students for Jobs in Industry** 
+Jamie Perrett (Bayer)
+
+For educators and/or administrators of degree programs (or certifications) related to statistics and/or data science. Discussion of statistical topics, technology skills, and consulting skills needed to have an attractive resume and to be successful in industry. 
+
+## 4:00 PM **Jumpstarting Early Undergraduate Research** 
+Peter E. Freeman (Carnegie Mellon University) 
+
+The session is for those who are thinking of providing opportunities, or have provided opportunities, for statistical practice to early undergraduates: freshmen and sophomores. Basically we will discuss best practices: what works...and what doesn't.
+
+# Tuesday, Jul 30, 2019 
+
+## 12:30 PM Teaching (with) R
+Anthony Scotina (Simmons) and Mine Dogucu (University of California Irvine)
+
+Many instructors teach (with) R in their statistics courses. The goal of this BoF is to share experiences of using specific tools (packages, server, Cloud) in the classroom as well as any pedagogical tips that have worked. As R grows, keeping up with new packages can be a struggle. We will figure out ways from each other on how to keep up with R for the statistics classroom.  What are best practices for introducing R to students with no computing experience? How can we incorporate R in a typical lecture without taking away from the main goals of the course? Does R have a place in in-class exams (besides reading R output)?
+
+This BoF is designed to gather instructors who are advanced R users and as well as instructors who are new to R or considering switching to R.
+
+## 12:30 PM Teaching Survey Statistics and Methodology from Total Survey Error Perspective
+James Wagner (University of Michigan), Frauke Kreuter (University of Maryland, College Park), Stas Kolenikov (Abt Associates)
+
+This session is aimed at instructors of survey statistics, survey methodology and data science. Survey statisticians have operated within a paradigm known as total survey error. This paradigm leads to a close examination of the process by which data are generated or collected in the search for potential sources of error. Using this approach in the classroom is a useful way to teach students how to examine the quality of the data they are analyzing. We will talk about classroom experiences and strategies for teaching this approach to data quality.
+
+## 4:00 PM ASA Section on Statistical Education Mentoring Program
+Jennifer Green (Montana State University)
+
+The Mentoring Program of the Section on Statistical Education connects early career statistics educators at all levels with experienced mentors to provide career advice and mentoring to help participants achieve their professional goals. Come learn more about the mentoring program and discover possibilities for developing new mentoring relationships. New and current mentors and mentees are welcome and encouraged to participate! There will be time for mentor-mentee pairs to meet and chat.
+
+# Wednesday, Jul 31, 2019
+
+## 4:00 PM Software Choices in Introductory Statistics
+Kelly Bodwin (Cal Poly, San Luis Obispo) 
+
+At this BoF, we will share our experiences using statistical software of all kinds to help teach introductory statistics.  We'll discuss how and why we made our software choice, how it was used in the course, and what the results and feedback have been like.  Come share your knowledge and/or pick up some new tips and tricks!
+
+### 4:00 PM Pair programming approaches to support team based learning
+Nicholas Horton (Amherst College)
+
+The computing education community has long acknowledged the value of pair programming as a way to build more reliable software.  How can we exploit these approaches to assist statistics and data science students to undertake reliable and reproducible analysis and workflow?
+
+
+### 4:00 PM Online Teaching
+John Steven Schuler (George Mason University)
+
+I personally teach statistics online. In an online course, something is certainly lost but it is also possible that through a smart use of technology, something else can be gained. Thus, I suspect this would be of interest to all teachers of statistics both traditional and online. The use of software is unavoidable in the teaching of statistics but the question of the proper use of technology in teaching statistics is much broader than this. 
+
