@@ -1,7 +1,6 @@
 ---
 title: "Birds of a Feather"
 author: "Amelia McNamara"
-date: "6/1/2019"
 output:
   html_document:
     toc: true
@@ -35,14 +34,14 @@ The session is for those who are thinking of providing opportunities, or have pr
 # Tuesday, Jul 30, 2019 
 
 ## 12:30 PM Teaching (with) R
-Anthony Scotina (Simmons) and Mine Dogucu (University of California Irvine)
+Mine Dogucu (University of California Irvine) and Anthony Scotina (Simmons) 
 
 Many instructors teach (with) R in their statistics courses. The goal of this BoF is to share experiences of using specific tools (packages, server, Cloud) in the classroom as well as any pedagogical tips that have worked. As R grows, keeping up with new packages can be a struggle. We will figure out ways from each other on how to keep up with R for the statistics classroom.  What are best practices for introducing R to students with no computing experience? How can we incorporate R in a typical lecture without taking away from the main goals of the course? Does R have a place in in-class exams (besides reading R output)?
 
 This BoF is designed to gather instructors who are advanced R users and as well as instructors who are new to R or considering switching to R.
 
 ## 12:30 PM Teaching Survey Statistics and Methodology from Total Survey Error Perspective
-James Wagner (University of Michigan), Frauke Kreuter (University of Maryland, College Park), Stas Kolenikov (Abt Associates)
+James Wagner (University of Michigan) and Stas Kolenikov (Abt Associates)
 
 This session is aimed at instructors of survey statistics, survey methodology and data science. Survey statisticians have operated within a paradigm known as total survey error. This paradigm leads to a close examination of the process by which data are generated or collected in the search for potential sources of error. Using this approach in the classroom is a useful way to teach students how to examine the quality of the data they are analyzing. We will talk about classroom experiences and strategies for teaching this approach to data quality.
 
