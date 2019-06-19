@@ -1,17 +1,29 @@
 ---
 title: "Birds of a Feather"
 output:
+  pdf_document:
+    toc: no
   html_document:
-    toc: true
+    toc: yes
     toc_depth: 3
-    toc_float: true
+    toc_float: yes
 ---
+\fontsize{12}{12}
+\fontseries{m}
+\selectfont
+
+\setlength{\paperwidth}{8.5in}
+\setlength{\paperheight}{11in}
+\setlength{\voffset}{-0.5in}
+\setlength{\textheight}{10.5in}
+\setlength{\textwidth}{7.5in}
+\pagenumbering{gobble}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-In lieu of/in addition to the standard JSM roundtables, the Statistical Education Section will be sponsoring Birds of a Feather (BoF) meetups at the 2019 conference (July 27 – August 1, 2019). A BoF is a casual meeting of a group of people to discuss a topic of common interest. Like a roundtable, there will be a leader, but everyone is welcome to participate in the discussion. Unlike a roundtable, the BoFs will not cost money. Instead, interested parties will meet at the stat ed booth in the conference center and either hang out there, or head to another casual spot. Typically, BoFs will be an hour long, but of course you can continue the conversation if you want to!
+In lieu of/in addition to the standard JSM roundtables, the Section on Statistics and Data Science Education will be sponsoring Birds of a Feather (BoF) meetups at the 2019 conference (July 27 – August 1, 2019). A BoF is a casual meeting of a group of people to discuss a topic of common interest. Like a roundtable, there will be a leader, but everyone is welcome to participate in the discussion. Unlike a roundtable, the BoFs will not cost money. Instead, interested parties will meet at the stat ed booth in the conference center and either hang out there, or head to another casual spot. Typically, BoFs will be an hour long, but of course you can continue the conversation if you want to!
 
 # Monday, Jul 29, 2019 
 
