@@ -7,6 +7,9 @@ output:
     toc_float: yes
   pdf_document:
     toc: no
+  word_document:
+    toc: no
+    toc_depth: '3'
 ---
 \fontsize{12}{12}
 \fontseries{m}
@@ -23,15 +26,15 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**What** In lieu of/in addition to the standard JSM roundtables, the Section on Statistics and Data Science Education will be sponsoring Birds of a Feather (BoF) meetups at the 2019 conference (July 27 – August 1, 2019). A BoF is a casual meeting of a group of people to discuss a topic of common interest. Like a roundtable, there will be a leader, but everyone is welcome to participate in the discussion. Unlike a roundtable, the BoFs will not cost money. 
+**What:** In lieu of/in addition to the standard JSM roundtables, the Section on Statistics and Data Science Education will be sponsoring Birds of a Feather (BoF) meetups at the 2019 conference (July 27 – August 1, 2019). A BoF is a casual meeting of a group of people to discuss a topic of common interest. Like a roundtable, there will be a leader, but everyone is welcome to participate in the discussion. Unlike a roundtable, the BoFs will not cost money. 
 
-**Who** Anyone who is interested! You don't have to be a Section member to attend, and no sign-up is required.  
+**Who:** Anyone who is interested! You don't have to be a Section member to attend, and no sign-up is required.  
 
-**When** See below for meeting start times. Typically, BoFs will be an hour long, but of course you can continue the conversation if you want to!
+**When:** See below for meeting start times. Typically, BoFs will be an hour long, but of course you can continue the conversation if you want to!
 
-**Where** Interested parties will **meet at the stat ed booth** in the conference center and either hang out there, or head to another casual spot. 
+**Where:** Interested parties will **meet at the stat ed booth** in the conference center and either hang out there, or head to another casual spot. 
 
-
+(A one-page printable version of this schedule is available [as a PDF](https://ameliamn.github.io/JSM-BoF/BoF_toprint.pdf).)
 
 # Monday, Jul 29, 2019 
 
